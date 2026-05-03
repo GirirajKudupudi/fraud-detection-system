@@ -9,11 +9,10 @@ This is a complete fraud detection pipeline — from raw transaction data to a w
 The model analyzes 1.3 million credit card transactions and achieves a 99.88% ROC-AUC score using XGBoost. It catches 93% of fraudulent transactions while keeping false alarms low. Every prediction comes with SHAP-powered explanations showing exactly which factors triggered the fraud alert.
 
 ## Screenshots
-
-![Home Page](assets/home.png)
-![Dashboard](assets/dashboard.png)
-![Transaction Scanner](assets/scanner.png)
-![API Documentation](assets/api-docs.png)
+![Home Page](assets/Homepage.png)
+![Dashboard](assets/Dashboard.png)
+![Transaction Scanner](assets/Transaction%20scanner.png)
+![API Documentation](assets/Fraud%20Detection%20Api.png)
 
 ## How It Works
 
